@@ -1,5 +1,7 @@
 # quiz
 
+This is a fun project to learn working and implementation of Vue.js.
+
 ## Project setup
 ```
 yarn install
